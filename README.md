@@ -1,2 +1,2 @@
 # SpringBootCurd
-It is the sample test file.It is the spring boot application curd example.
+It is the Springboot curd application and it wirte all api's in one file
